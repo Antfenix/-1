@@ -22,7 +22,8 @@ int main()
 	else
 	{
 		int j = 2;
-		10 * j * 1 - 1 / j;
+		sum2=10 * j * 1 - 1 / j;
+		cout << "result" << sum2 << endl;
 	}
 
 }
